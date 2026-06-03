@@ -1,0 +1,52 @@
+---
+MainSourceFile:  'D:/Vivado_Project/hls_nco/hls_nco/nco/hls/.autopilot/db/nco.pp.0.cpp'
+Diagnostics:
+  - DiagnosticName:  xilinx-label-all-loops
+    DiagnosticMessage:
+      Message:         'Added loop label VITIS_LOOP_676_1:  '
+      FilePath:        'D:\Downloads\Vivado\2025.2.1\Vitis\common\technology\autopilot\etc\ap_int_ref.h'
+      FileOffset:      676
+      Replacements:
+        - FilePath:        'D:\Vivado_Project\hls_nco\hls_nco\nco\hls\.autopilot\db\nco.pp.0.cpp'
+          Offset:          280617
+          Length:          0
+          ReplacementText: 'VITIS_LOOP_676_1: '
+    Level:           Remark
+    BuildDirectory:  'D:\Vivado_Project\hls_nco\hls_nco'
+  - DiagnosticName:  xilinx-label-all-loops
+    DiagnosticMessage:
+      Message:         'Added loop label VITIS_LOOP_690_1:  '
+      FilePath:        'D:\Downloads\Vivado\2025.2.1\Vitis\common\technology\autopilot\etc\ap_int_ref.h'
+      FileOffset:      690
+      Replacements:
+        - FilePath:        'D:\Vivado_Project\hls_nco\hls_nco\nco\hls\.autopilot\db\nco.pp.0.cpp'
+          Offset:          281088
+          Length:          0
+          ReplacementText: 'VITIS_LOOP_690_1: '
+    Level:           Remark
+    BuildDirectory:  'D:\Vivado_Project\hls_nco\hls_nco'
+  - DiagnosticName:  xilinx-label-all-loops
+    DiagnosticMessage:
+      Message:         'Added loop label VITIS_LOOP_704_1:  '
+      FilePath:        'D:\Downloads\Vivado\2025.2.1\Vitis\common\technology\autopilot\etc\ap_int_ref.h'
+      FileOffset:      704
+      Replacements:
+        - FilePath:        'D:\Vivado_Project\hls_nco\hls_nco\nco\hls\.autopilot\db\nco.pp.0.cpp'
+          Offset:          281560
+          Length:          0
+          ReplacementText: 'VITIS_LOOP_704_1: '
+    Level:           Remark
+    BuildDirectory:  'D:\Vivado_Project\hls_nco\hls_nco'
+  - DiagnosticName:  xilinx-label-all-loops
+    DiagnosticMessage:
+      Message:         'Added loop label VITIS_LOOP_1251_1:  '
+      FilePath:        'D:\Downloads\Vivado\2025.2.1\Vitis\common\technology\autopilot\etc\ap_fixed_base.h'
+      FileOffset:      1251
+      Replacements:
+        - FilePath:        'D:\Vivado_Project\hls_nco\hls_nco\nco\hls\.autopilot\db\nco.pp.0.cpp'
+          Offset:          626747
+          Length:          0
+          ReplacementText: 'VITIS_LOOP_1251_1: '
+    Level:           Remark
+    BuildDirectory:  'D:\Vivado_Project\hls_nco\hls_nco'
+...

@@ -1,0 +1,156 @@
+<ENTRY>
+{
+ "thisFile": "D:/Vivado_Project\\hls_nco\\hls_nco\\nco\\nco.hlsrun_csim_summary",
+ "connectId": "",
+ "serverToken": "",
+ "timestamp": "0"
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_CmdStep",
+ "dateTimestamp": "06/02/26 23:01:07",
+ "timestampMillis": "1780416067808",
+ "buildStep": {
+  "cmdId": "dfcd43fc-ebb1-4ee1-962f-c5fe6941efe3",
+  "name": "vitis-run",
+  "logFile": "D:/Vivado_Project\\hls_nco\\hls_nco\\nco\\logs\\nco.steps.log",
+  "commandLine": "D:/Downloads/Vivado/2025.2.1/Vitis/bin/unwrapped/win64.o/vitis-run.exe  --mode hls --csim --config D:\\Vivado_Project\\hls_nco\\hls_nco\\hls_config.cfg --work_dir nco ",
+  "args": [
+   "--mode",
+   "hls",
+   "--csim",
+   "--config",
+   "D:\\Vivado_Project\\hls_nco\\hls_nco\\hls_config.cfg",
+   "--work_dir",
+   "nco"
+  ],
+  "iniFiles": [],
+  "cwd": "D:\\Vivado_Project\\hls_nco\\hls_nco"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Status",
+ "dateTimestamp": "06/02/26 23:01:07",
+ "timestampMillis": "1780416067808",
+ "status": {
+  "cmdId": "dfcd43fc-ebb1-4ee1-962f-c5fe6941efe3",
+  "state": "CS_RUNNING"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_FlowMetaData",
+ "dateTimestamp": "06/02/26 23:01:15",
+ "timestampMillis": "1780416075059",
+ "buildSummary": {
+  "hardwarePlatform": "",
+  "hardwareDsa": "",
+  "platformDirectory": "",
+  "runtime": "",
+  "systemConfig": "",
+  "flow": "BF_RUN",
+  "target": "TT_HLS_C_SIM",
+  "kernels": [
+   {
+    "base": {
+     "type": "KERNEL",
+     "name": "nco",
+     "file": "",
+     "reports": [],
+     "uuid": ""
+    },
+    "sources": [
+     "D:/Vivado_Project\\hls_nco\\nco.cpp"
+    ],
+    "psSources": [],
+    "cuNames": [],
+    "type": "HLS",
+    "frequency": 0,
+    "freqUnits": ""
+   }
+  ],
+  "toolVersion": "2025.2"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_SubCmdStep",
+ "dateTimestamp": "06/02/26 23:01:15",
+ "timestampMillis": "1780416075060",
+ "buildStep": {
+  "cmdId": "b71943d3-31e4-4da7-be5c-48325ca8221f",
+  "name": "",
+  "logFile": "D:/Vivado_Project\\hls_nco\\hls_nco\\nco\\hls\\hls.log",
+  "commandLine": "",
+  "args": [],
+  "iniFiles": [],
+  "cwd": "D:\\Vivado_Project\\hls_nco\\hls_nco"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Status",
+ "dateTimestamp": "06/02/26 23:01:15",
+ "timestampMillis": "1780416075060",
+ "status": {
+  "cmdId": "b71943d3-31e4-4da7-be5c-48325ca8221f",
+  "state": "CS_RUNNING"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Status",
+ "dateTimestamp": "06/02/26 23:01:27",
+ "timestampMillis": "1780416087871",
+ "status": {
+  "cmdId": "b71943d3-31e4-4da7-be5c-48325ca8221f",
+  "state": "CS_PASSED"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Status",
+ "dateTimestamp": "06/02/26 23:01:27",
+ "timestampMillis": "1780416087998",
+ "status": {
+  "cmdId": "dfcd43fc-ebb1-4ee1-962f-c5fe6941efe3",
+  "state": "CS_PASSED"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Report",
+ "dateTimestamp": "06/02/26 23:01:27",
+ "timestampMillis": "1780416087999",
+ "report": {
+  "path": "",
+  "name": "",
+  "fileType": "HTML",
+  "reportType": "GLOBAL_RULECHECK_GUIDANCE",
+  "cmdId": ""
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Report",
+ "dateTimestamp": "06/02/26 23:01:27",
+ "timestampMillis": "1780416087999",
+ "report": {
+  "path": "",
+  "name": "",
+  "fileType": "BINARY_PROTOBUF",
+  "reportType": "GLOBAL_RULECHECK_GUIDANCE",
+  "cmdId": ""
+ }
+}
+</ENTRY>

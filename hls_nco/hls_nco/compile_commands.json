@@ -1,0 +1,27 @@
+[
+  {
+    "directory": "D:\\Vivado_Project\\hls_nco\\hls_nco",
+    "arguments": [
+      "D:\\Downloads\\Vivado\\2025.2.1\\Vitis\\win64\\tools\\vcxx\\libexec\\clang++.exe",
+      "--sysroot=D:\\Downloads\\Vivado\\2025.2.1\\Vitis\\tps\\mingw\\10.0.0\\win64.o\\nt",
+      "-fhls",
+      "-hls-syn-headers-dir=D:\\Downloads\\Vivado\\2025.2.1\\Vitis\\common\\technology\\autopilot",
+      "-fhlstoplevel=nco",
+      "-c",
+      "D:\\Vivado_Project\\hls_nco\\nco.cpp"
+    ],
+    "file": "D:\\Vivado_Project\\hls_nco\\nco.cpp"
+  },
+  {
+    "directory": "D:\\Vivado_Project\\hls_nco\\hls_nco",
+    "arguments": [
+      "D:\\Downloads\\Vivado\\2025.2.1\\Vitis\\win64\\tools\\vcxx\\libexec\\clang++.exe",
+      "--sysroot=D:\\Downloads\\Vivado\\2025.2.1\\Vitis\\tps\\mingw\\10.0.0\\win64.o\\nt",
+      "-fhls-tb",
+      "-hls-sim-headers-dir=D:\\Downloads\\Vivado\\2025.2.1\\Vitis\\include",
+      "-c",
+      "D:\\Vivado_Project\\hls_nco\\nco_tb.cpp"
+    ],
+    "file": "D:\\Vivado_Project\\hls_nco\\nco_tb.cpp"
+  }
+]

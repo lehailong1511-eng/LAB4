@@ -1,0 +1,3 @@
+relativeroot=D:/Vivado_Project/hls_nco/hls_nco
+original_argv=--mode hls --csim --config D:\Vivado_Project\hls_nco\hls_nco\hls_config.cfg --work_dir nco 
+

@@ -1,0 +1,7 @@
+{
+    "clangd.fallbackFlags": [
+        "-ID:\\Downloads\\Vivado\\2025.2.1\\Vitis\\include",
+        "-ID:\\Downloads\\Vivado\\2025.2.1\\Vitis\\include\\etc",
+        "-ID:\\Downloads\\Vivado\\2025.2.1\\Vitis\\win64\\tools\\auto_cc\\include"
+    ]
+}

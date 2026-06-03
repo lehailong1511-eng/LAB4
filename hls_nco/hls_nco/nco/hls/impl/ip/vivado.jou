@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.2.1 (64-bit)
+# SW Build 6403652 on Thu Mar 19 19:48:24 GMT 2026
+# IP Build 6403511 on Thu Mar 19 12:41:45 MDT 2026
+# SharedData Build 6403650 on Thu Mar 19 14:02:13 MDT 2026
+# Start of session at: Mon Jun  1 10:21:00 2026
+# Process ID         : 32172
+# Current directory  : D:/Vivado_Project/hls_nco/hls_nco/nco/hls/impl/ip
+# Command line       : vivado.exe -notrace -mode batch -source run_ippack.tcl
+# Log file           : D:/Vivado_Project/hls_nco/hls_nco/nco/hls/impl/ip/vivado.log
+# Journal file       : D:/Vivado_Project/hls_nco/hls_nco/nco/hls/impl/ip\vivado.jou
+# Running On         : LAPTOP-EQCLE5J0
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : AMD Ryzen AI 7 350 w/ Radeon 860M              
+# CPU Frequency      : 1996 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 33413 MB
+# Swap memory        : 9126 MB
+# Total Virtual      : 42540 MB
+# Available Virtual  : 11877 MB
+#-----------------------------------------------------------
+source run_ippack.tcl -notrace
